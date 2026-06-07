@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/Vista/Login.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/util/conexion.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/interfaces/DetalleFacturaInterface.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/modelo/DetalleFacturaDTO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/Vista/Productos.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/interfaces/ProductoInterface.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/modelo/UsuarioDTO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/modelo/ClienteDTO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/interfaces/FacturaInterface.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/modelo/ProductoDTO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/Vista/Cliente.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/Vista/Aplicacion.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/DAO/UsuarioDAO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/interfaces/ClienteInterface.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/DAO/ClienteDAO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/interfaces/CRUD.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/Vista/Ventas.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/DAO/ProductoDAO.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/Vista/ReportesT.java</file>
+            <file>file:/C:/Users/jerss/OneDrive/Desktop/ProyectoIntegrador/src/modelo/FacturaDTO.java</file>
+        </group>
+    </open-files>
+</project-private>
